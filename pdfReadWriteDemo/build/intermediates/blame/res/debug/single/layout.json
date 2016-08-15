@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\PdfCreator\\pdfReadWriteDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Android\\PdfCreator\\pdfReadWriteDemo\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PdfCreator\\pdfReadWriteDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\PdfCreator\\pdfReadWriteDemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
