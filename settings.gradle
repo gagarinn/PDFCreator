@@ -1,2 +1,2 @@
-include ':app', ':apdfwriter'
+include ':app', ':apdfwriter', ':mypdf'
 include ':pdfReadWriteDemo'
